@@ -1,9 +1,9 @@
 {
   "tests": [
     {
-      "name": "test",
-      "setup": "",
-      "run": "ls",
+      "name": "a",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest",
       "input": "",
       "output": "",
       "comparison": "included",
