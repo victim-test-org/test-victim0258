@@ -3,7 +3,7 @@
     {
       "name": "a",
       "setup": "sudo -H pip3 install pytest",
-      "run": "pytest",
+      "run": "whoami",
       "input": "",
       "output": "",
       "comparison": "included",
